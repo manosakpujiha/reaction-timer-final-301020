@@ -1,0 +1,15 @@
+body {font-family: sans-serif;}
+
+h1 {color: orange;}
+
+p {font-size: 20px;}
+
+#shape {
+       width: 200px;
+       height: 200px;
+       background-color: red;
+       display: none;
+       position: relative;
+       }
+
+.bold {font-weight: bold;} 
