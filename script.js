@@ -46,3 +46,9 @@
     document.getElementById('time').innerHTML = ('Your clicked in: ' + timeTaken +'s');
     secondAppear ();
     }
+
+
+    //include best time
+    // include music and click sounds
+    // include start game screen
+    // 
